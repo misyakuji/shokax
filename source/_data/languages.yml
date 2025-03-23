@@ -1,0 +1,76 @@
+# language
+zh-CN:
+  # items
+  menu:
+    links: 链接
+    travellings: 开往
+    webstack: 网址
+    friends: 友链
+    home: 首页
+    posts: 文章
+    archives: 归档
+    categories: 分类
+    tags: 标签
+    about: 关于
+    search: 搜索
+    Chainlink: 链环
+
+zh-HK:
+  menu:
+    links: 链接
+    travellings: 開往
+    friends: 友達
+    webstack: 網址
+    home: 首頁
+    posts: 文章
+    archives: 歸檔
+    categories: 分類
+    tags: 標籤
+    about: 關於
+    search: 搜尋
+    Chainlink: 鏈環
+
+zh-TW:
+  menu:
+    links: 鏈結
+    travellings: 開往
+    friends: 友達
+    webstack: 網址
+    home: 首頁
+    posts: 文章
+    archives: 歸檔
+    categories: 分類
+    tags: 標籤
+    about: 關於
+    search: 搜尋
+    Chainlink: 鏈環
+
+en:
+  menu:
+    links: Links
+    travellings: Travellings
+    webstack: Web Stack
+    friends: Friends
+    home: Home
+    posts: Posts
+    archives: Archives
+    categories: Categories
+    tags: Tags
+    about: About
+    search: Search
+    Chainlink: Chainlink
+
+ja:
+  menu:
+    links: リンク
+    travellings: 旅行
+    friends: 友達
+    webstack: 網站群
+    home: ホーム
+    posts: 記事
+    archives: アーカイブ
+    categories: 分類
+    tags: タグ
+    about: 概要
+    search: 検索
+    Chainlink: チェーンリンク

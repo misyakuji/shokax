@@ -1,0 +1,48 @@
+# https://hexo.docs.shokax.top/getting-started/
+# https://docs.kaitaku.xyz/guide/config.html
+
+alternate: Yuu Shoka
+
+menu:
+  home: / || home
+  posts:
+    default: / || feather
+    archives: /archives/ || list-alt
+    categories: /categories/ || th
+    tags: /tags/ || tags
+  Chainlink:
+    default: / || magic
+    friends: /friends/ || heart
+    webstack: /webstack/ || star
+
+sidebar:
+  position: right # left/right分别对应左侧/右侧
+  avatar: xi.jpg
+
+widgets:
+  random_posts: false # 随机文章
+  recent_comments: false # 显示最近评论
+
+social:
+  github: https://github.com/misyakuji || github || "#191717"
+  gitee: https://gitee.com/misyakuji || gitee || "#e60026"
+  qq: https://qm.qq.com/q/U6cfgDuLWS || qq || "#00aff0"
+  BiliBili: https://space.bilibili.com/86496941 || bilibili || "#FB7299"
+
+# 赞赏码
+reward:
+  enable: true
+  account:
+    wechatpay: /wechatpay.png
+    # alipay: /alipay.png
+
+modules:
+  player: true # 启用音乐播放器
+  fireworks: true # 启用鼠标点击烟花特效
+  unlazyHash: false # 启用unlazy hash预览图支持
+  visibilityListener: true # 启用可见度监听器
+  tabs: true # 启用选项卡扩展支持，如需开启 summary 功能请一并开启
+  quiz: true # 启用文章内问题扩展支持
+  fancybox: true # 启用 fancybox 支持（不建议禁用）
+
+darkmode: true # true/false分别对应打开/关闭夜间模式
