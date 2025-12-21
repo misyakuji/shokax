@@ -15,7 +15,7 @@ timezone: 'Asia/Shanghai'
 
 # URL设置
 ## 在此处设置您的站点URL。例如使用GitHub Page时，设置为'https://username.github.io/project'
-url: https://blog.misyakuji.top
+url: https://misyakuji.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

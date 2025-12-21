@@ -8,7 +8,7 @@ copyright: false
 # 本站信息
 - 站名： Yuu Shoka
 - 站长： 夕
-- 地址： https://blog.misyakuji.top/
+- 地址： https://misyakuji.github.io
 - 简介： 因为喜欢所以热爱，开发才是快乐源泉
 
 # 申请方法
